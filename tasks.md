@@ -1,15 +1,15 @@
 # Tasks
 
-[ ] general review
-[ ] use tools to detect errors
-[ ] vars, etc... ?
-[ ] modifiers
-[ ] globals search
-[ ] functions search
-[ ] function parameters search 
-[ ] follow the money
-[ ] detailed exam of non-owner functions
-[ ] review tests
+- [x] general review
+- [ ] use tools to detect errors
+- [ ] vars, etc... ?
+- [ ] modifiers
+- [ ] globals search
+- [ ] functions search
+- [ ] function parameters search 
+- [ ] follow the money
+- [ ] detailed exam of non-owner functions
+- [ ] review tests
 
 
 address owner -> owner of all contract
