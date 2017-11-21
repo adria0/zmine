@@ -11,7 +11,7 @@
 - [ ] detailed exam of non-owner functions
 - [ ] review tests
 
-
+```
 address owner -> owner of all contract
 address founder1, founder2 -> founders addresses
 address presaleFiatPayer -> payed with fiat the presale
@@ -46,4 +46,4 @@ icosale.transfer(2000, { from : icoEtherPayer })
 
 /// --- Finish the ICO
 zmine.burn(zmine.balanceOf(owner))
-
+```
